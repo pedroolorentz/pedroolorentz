@@ -7,7 +7,7 @@
 </div>
   
   ## About me
-  Hi! My name is Pedro Willer and I'm 18 years old, I'm a Front-end developer and I've been improving my technical skills since 2019.
+  Hi! My name is Pedro Lorentz and I'm 18 years old, I'm a Front-end developer and I've been improving my technical skills since 2019.
 
   I'm in the third year of technical high school in information technology with a specialization in mobile at Cotemig.
 
