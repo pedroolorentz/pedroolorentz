@@ -1,4 +1,4 @@
-## Hi, my name is Pedro Willer 👋
+## Hi, my name is Pedro Lorentz 👋
 
 <div>
   <a href="https://github.com/pedroolorentz">
