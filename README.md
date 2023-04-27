@@ -7,13 +7,9 @@
 </div>
   
   ## About me
-  Hi! My name is Pedro Lorentz and I'm 18 years old, I'm a Front-end developer and I've been improving my technical skills since 2019.
-
-  I'm in the third year of technical high school in information technology with a specialization in mobile at Cotemig.
+  Hi! My name is Pedro Lorentz and I'm 20 years old, I'm a Front-end developer and i've been improving my technical skills since 2019.
 
   My goal is to improve my capabilities to develop applications and websites to facilitate access and improve the user experience.
-
-  To achieve this goal, I joined framework system to refine my skills as a developer.
   
   ## Technologies
   
