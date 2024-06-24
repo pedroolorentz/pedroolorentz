@@ -1,4 +1,4 @@
-## Hi, my name is Pedro Lorentz 👋
+## Hello, my name is Pedro 👋
 
 <div>
   <a href="https://github.com/pedroolorentz">
@@ -7,9 +7,7 @@
 </div>
   
   ## About me
-  Hi! My name is Pedro Lorentz and I'm 20 years old, I'm a Front-end developer and i've been improving my technical skills since 2019.
-
-  My goal is to improve my capabilities to develop applications and websites to facilitate access and improve the user experience.
+  I'm a web developer with 3 years of experience in the area and good knowledge of Angular and Java. Able to work from project conception to implementation, including creating prototypes and carrying out unit tests. Has planning, problem solving and teamwork skills, aiming to deliver the best results to the client.
   
   ## Technologies
   
