@@ -1,22 +1,25 @@
-## Hello, my name is Pedro 👋
+## Hi there! 👋
+
+I'm a Full-Stack web developer with solid knowledge of Java, focused on building efficient and scalable web applications.
+
+Full-Stack Developer at Fencom;
 
 <div>
   <a href="https://github.com/pedroolorentz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroolorentz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolorentz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroolorentz&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolorentz&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
   
-  ## About me
-  I'm a web developer with 3 years of experience in the area and good knowledge of Angular and Java. Able to work from project conception to implementation, including creating prototypes and carrying out unit tests. Has planning, problem solving and teamwork skills, aiming to deliver the best results to the client.
+  
   
   ## Technologies
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Hibernate" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 </div>
   
   ## Contact
