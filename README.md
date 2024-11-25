@@ -6,8 +6,8 @@ Full-Stack Developer at Fencom;
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/pedroolorentz">
-  <img class="img" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroolorentz&theme=tokyonight&hide_border=false"/>
-  <img class="img" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolorentz&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+  <img class="img" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroolorentz&theme=tokyonight&hide_border=false"/>
+  <img class="img" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolorentz&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
   
   
