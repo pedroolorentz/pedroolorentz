@@ -2,7 +2,7 @@
 
 I'm a Full-Stack web developer with solid knowledge of Java, focused on building efficient and scalable web applications.
 
-Full-Stack Developer at Fencom;
+Full-Stack Developer at Prodemge;
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/pedroolorentz">
