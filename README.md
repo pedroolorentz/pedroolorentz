@@ -3,12 +3,6 @@
 I'm a Full-Stack web developer with solid knowledge of Java, focused on building efficient and scalable web applications.
 
 Full-Stack Developer at Prodemge;
-
-<div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/pedroolorentz">
-  <img class="img" height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroolorentz&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img class="img" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolorentz&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-</div>
   
   ## Technologies
   
