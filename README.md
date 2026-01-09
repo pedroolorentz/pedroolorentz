@@ -1,8 +1,6 @@
 ## Hi there! 👋
 
-I'm a Full-Stack web developer with solid knowledge of Java, focused on building efficient and scalable web applications.
-
-Full-Stack Developer at Prodemge;
+I’m a Full Stack Developer at Prodemge with experience in Java 8-17 on monolithic systems and layered architectures. I work with JPA/Hibernate, JSF/PrimeFaces, Spring, Angular, JavaScript/TypeScript, HTML/CSS, MySQL, and SQL Server.
   
   ## Technologies
   
